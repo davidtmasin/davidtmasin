@@ -13,4 +13,6 @@ Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidteixeirademasin/)](https://www.linkedin.com/in/davidteixeirademasin/)
 
+[![CodeOpen Badge](https://img.shields.io/badge/-CodeOpen-black?style=flat-square&logo=Codeopen&logoColor=white&link=https://codepen.io/davidtmasin/pens/public)](https://codepen.io/davidtmasin/pens/public)
+
 See you, my friend!
