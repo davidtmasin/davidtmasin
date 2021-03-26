@@ -13,6 +13,6 @@ Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidteixeirademasin/)](https://www.linkedin.com/in/davidteixeirademasin/)
 
-[![CODEPEN Badge](https://img.shields.io/badge/CODEPEN-black?style=plastic&link=https://codepen.io/davidtmasin/pens/public)](https://codepen.io/davidtmasin/pens/public)
+[![CODEPEN Badge](https://img.shields.io/badge/CODEPEN-black?style=plastic&link=https://codepen.io/davidtmasin/collections/)](https://codepen.io/davidtmasin/collections/)
 
 See you, my friend!
