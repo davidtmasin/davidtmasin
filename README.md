@@ -15,4 +15,8 @@ Would you like to find me?
 
 [![CODEPEN Badge](https://img.shields.io/badge/CODEPEN-black?style=plastic&link=https://codepen.io/davidtmasin/collections/)](https://codepen.io/davidtmasin/collections/)
 
+[![Resume Badge](https://img.shields.io/badge/Resume-black?style=plastic&link=https://davidtmasin-portfoliodigital.vercel.app/)](https://davidtmasin-portfoliodigital.vercel.app/)
+
+![GitHub followers](https://img.shields.io/github/followers/davidtmasin?style=social)
+
 See you, my friend!
