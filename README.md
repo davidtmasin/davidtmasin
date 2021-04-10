@@ -1,4 +1,4 @@
-# What's up, dude! :metal:
+# What's up, dude! <img src="https://media.giphy.com/media/ZYEc9eVxlZWWu4VnQu/giphy.gif" width="50px">
 
 <h1 align="center">
   David Teixeira | IT PROFESSIONAL  
@@ -17,4 +17,5 @@ Would you like to find me?
 
 ![GitHub followers](https://img.shields.io/github/followers/davidtmasin?style=social)
 
-See you, my friend!
+See you, my friend! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
