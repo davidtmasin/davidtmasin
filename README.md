@@ -4,10 +4,10 @@
   David Teixeira | IT PROFESSIONAL  
 </h1>
 
-- 👋 Hi, I’m David Teixeira de Masin from Brazil (🇧🇷) and I decided to head into in this Development's World, after all, code creation is the POWER✨! I'm studying some projects proposed by the RocketSeat, Alura and other courses' area. Nowadays, I'm a informatic professional, especifically, in the development's area, working as Test Analist, in system created in PL/SQL language.
-- 👀 I’m interested in JavaScript, Typescript, ReactJS, NextJS and Python.
-- 🌱 I’m currently learning JavaScript and Python (Futurely).
-- 💞️ I’m looking to collaborate on future projects in enterprises focused in development.
+- 👋 Hi, I’m David Teixeira de Masin from Brazil (🇧🇷) and I decided to head into in this Development's World, after all, code creation is the POWER <img src="https://media.giphy.com/media/lnOBuMrBICJooIHMxU/giphy.gif" width="25px">! I'm studying some projects proposed by the RocketSeat, Alura and other courses' area. Nowadays, I'm a informatic professional, especifically, in the development's area, working as Test Analist, in system created in PL/SQL language.
+- <img src="https://media.giphy.com/media/ZCcl9OICwD9ixRv0C6/giphy.gif" width="30px"> I’m interested in JavaScript, Typescript, ReactJS, NextJS and Python.
+- <img src="https://media.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif" width="20px"> I’m currently learning JavaScript and Python (Futurely).
+- <img src="https://media.giphy.com/media/ekvdzLpwBWXPeTBLCy/giphy.gif" width="30px"> I’m looking to collaborate on future projects in enterprises focused in FrontEnd development.
 
 Would you like to find me?
 
