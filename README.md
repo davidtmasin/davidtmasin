@@ -19,8 +19,10 @@ Would you like to find me?
 [<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/davidtmasin/collections/)
 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/davidtmasin) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/dteixeira.92/) 
-
-DavidTeixeira #1937 <img src="https://media.giphy.com/media/Fo5y4K3GD3RYijvsCS/giphy.gif" width="50px" />
+<div>
+  <img src="https://media.giphy.com/media/Fo5y4K3GD3RYijvsCS/giphy.gif" width="50px" />
+  <p>DavidTeixeira #1937</p>
+</div>
 
 Follow me:
 
