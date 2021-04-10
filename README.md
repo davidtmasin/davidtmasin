@@ -13,7 +13,9 @@ Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidteixeirademasin/)](https://www.linkedin.com/in/davidteixeirademasin/) [![Gmail Badge](https://img.shields.io/badge/davidteixeira.info%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:davidteixeira.info@gmail.com)](mailto:davidteixeira.info@gmail.com)
 
-[![Resume Badge](https://img.shields.io/badge/Portfólio_Digital-informational?style=plastic&link=https://davidtmasin-portfoliodigital.vercel.app/)](https://davidtmasin-portfoliodigital.vercel.app/) [![CODEPEN Badge](https://img.shields.io/badge/CodePen-black?style=plastic&link=https://codepen.io/davidtmasin/collections/)](https://codepen.io/davidtmasin/collections/)
+[![Resume Badge](https://img.shields.io/badge/Portfólio_Digital-informational?style=plastic&link=https://davidtmasin-portfoliodigital.vercel.app/)](https://davidtmasin-portfoliodigital.vercel.app/) 
+
+[<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/davidtmasin/collections/)
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/dteixeira.92/) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/davidtmasin)
 
