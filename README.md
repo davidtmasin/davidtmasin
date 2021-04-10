@@ -12,13 +12,13 @@
 
 Would you like to find me?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidteixeirademasin/)](https://www.linkedin.com/in/davidteixeirademasin/) [![Gmail Badge](https://img.shields.io/badge/davidteixeira.info%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:davidteixeira.info@gmail.com)](mailto:davidteixeira.info@gmail.com) 
+[<img src="https://media.giphy.com/media/fCFjr9NimeUjN2f1mu/giphy.gif" width="110px">](https://davidtmasin-portfoliodigital.vercel.app/) 
 
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/davidtmasin) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/dteixeira.92/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidteixeirademasin/)](https://www.linkedin.com/in/davidteixeirademasin/) [![Gmail Badge](https://img.shields.io/badge/davidteixeira.info%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:davidteixeira.info@gmail.com)](mailto:davidteixeira.info@gmail.com) 
 
 [<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/davidtmasin/collections/)
 
-[<img src="https://media.giphy.com/media/fCFjr9NimeUjN2f1mu/giphy.gif" width="110px">](https://davidtmasin-portfoliodigital.vercel.app/) 
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/davidtmasin) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/dteixeira.92/) 
 
 <div><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   <p>DavidTeixeira #1937</p>
