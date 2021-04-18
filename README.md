@@ -14,6 +14,8 @@ Would you like to find me?
 
 [<img src="https://media.giphy.com/media/fCFjr9NimeUjN2f1mu/giphy.gif" width="110px">](https://davidtmasin-portfoliodigital.vercel.app/) 
 
+[<img src="https://media.giphy.com/media/RIkWtU6b3EEuVupU6V/source.gif" width="100px">](https://about-davidtmasin.vercel.app/)
+
 [<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/davidtmasin/collections/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidteixeirademasin/)](https://www.linkedin.com/in/davidteixeirademasin/) [![Gmail Badge](https://img.shields.io/badge/davidteixeira.info%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:davidteixeira.info@gmail.com)](mailto:davidteixeira.info@gmail.com) 
