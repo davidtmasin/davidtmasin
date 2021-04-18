@@ -23,7 +23,7 @@ Would you like to find me?
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/davidtmasin) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/dteixeira.92/) 
 
 <div>
-  <img src="https://i.gyazo.com/67416a263df628cd7fc52a45cfb36db5.png" width="50px" />
+  <img src="https://i.gyazo.com/67416a263df628cd7fc52a45cfb36db5.png" width="35px" />
   <p>DavidTeixeira #1937</p>
 </div>
 
