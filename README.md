@@ -2,9 +2,11 @@
   
   <h1>
     David Teixeira de Masin
-    
+  </h1> 
+  <p>
     Software Tester - Informatics Teacher - Designer Amateur
-  </h1>
+  </p>
+  
   
   
 </div>
