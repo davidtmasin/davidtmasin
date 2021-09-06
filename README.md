@@ -31,7 +31,7 @@ Hi, I’m David Teixeira de Masin from Brazil (🇧🇷) and I decided to head i
   ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
   ![TRELLO](https://img.shields.io/badge/-TRELLO-0052CC?style=flat-square&logo=trello)
 
-  <img align="right" alt="Cat-Salem" src="https://c.tenor.com/JvArM7ZO5JIAAAAM/bavatogay-ricardo-milos.gif">
+  <img align="right" alt="megamen" src="https://thumbs.gfycat.com/DirtyBonyLeafbird-max-1mb.gif">
 
 
 <h2 align="center">Would you like to find me?</h2>
