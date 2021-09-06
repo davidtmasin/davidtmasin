@@ -45,25 +45,34 @@ Hi, I’m David Teixeira de Masin from Brazil (🇧🇷) and I decided to head i
  	<a href="https://www.twitter.com/davidtmasin" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/c/tiodavideduca%C3%A7%C3%A3o" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="DavidTeixeira #1937" target="_blank"></a>
+   <a href="https://api.whatsapp.com/send?phone=5585989647993&text=Ol%C3%A1%2C%20David.%20Encontrei%20o%20seu%20contato%20atrav%C3%A9s%20do%20GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  
+  
 
   [<img src="https://media.giphy.com/media/fCFjr9NimeUjN2f1mu/giphy.gif" width="110px">](https://davidtmasin-portfoliodigital.vercel.app/) 
   
 </div>
 
 
-<div align="center">
-
-</div>
-
-
-Follow me:
+<strong>Follow me:</strong>
 
 ![GitHub followers](https://img.shields.io/github/followers/davidtmasin?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/davidtmasin?style=social)
 [![Linkedin: davidteixeirademasin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidteixeirademasin/)](https://www.linkedin.com/in/davidteixeirademasin/)
 [![Instagram: dteixeira.92](https://img.shields.io/badge/-Instagram-517fa4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dteixeira.92/)](https://www.instagram.com/dteixeira.92/)
 [![Instagram: doidodairy](https://img.shields.io/badge/-Instagram-dd4b39?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/doidodairy/)](https://www.instagram.com/doidodairy/)
+[![Youtube: tiodavideduca%C3%A7%C3%A3o](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/tiodavideduca%C3%A7%C3%A3o)](https://www.youtube.com/channel/tiodavideduca%C3%A7%C3%A3o)
 
 See you, my friend! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
+<div align="center">
+  <a href="https://github.com/davidtmasin" target="_blank">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidtmasin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidtmasin&layout=compact&langs_count=7&theme=dracula"/>
+
+  </a>
+</div>
 
 
