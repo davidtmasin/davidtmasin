@@ -14,7 +14,7 @@
 
 
 ## 🌎 Encontre-me na Web
-- 📚 [Curriculum](https://http.cat/status/404)
+- 📚 [Curriculum](curriculum.md)
 - 💼 [LinkedIn](https://www.linkedin.com/in/davidteixeirademasin/)
 - ✉️ [Email](mailto:davidteixeira.info@gmail.com)
 - <img alt="Discord" height="20" width="20" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Discord.svg" /> Discord (davidtmasin)
