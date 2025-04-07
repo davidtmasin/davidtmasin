@@ -5,51 +5,34 @@
   <p id="subtitle">
     𝗤𝗔 | 𝗔𝗻𝗮𝗹𝗶𝘀𝘁𝗮 𝗱𝗲 𝗤𝘂𝗮𝗹𝗶𝗱𝗮𝗱𝗲 𝗱𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 | 𝗧𝗲𝘀𝘁𝗲𝘀 𝗠𝗮𝗻𝘂𝗮𝗶𝘀 𝗲 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝘇𝗮𝗱𝗼𝘀
   </p>    
+  <br>
 </div>
 
-<br>
 
-<h2>📋Sobre mim</h2>
-<p id="about-me">
+## 📋Sobre mim
   Sou um profissional da qualidade e testes de software (𝐐𝐀) com 04 anos de experiência em diversos contextos como, saúde, e-commerce, financeiro e educação, sendo responsável pela execução de testes manuais, automatizados, exploratórios e regressivos, além da documentação de planos de testes, cenários e casos de testes, e relatórios de testes.
-</p>
 
-<h2>💻 Experiência</h2>
-<p id="experience">
+
+## 🌎 Encontre-me na Web
+- 💼 [LinkedIn](https://www.linkedin.com/in/davidteixeirademasin/)
+- ✉️ [Email](mailto:davidteixeira.info@gmail.com)
+- 📚 [Curriculum](https://http.cat/status/404)
+
+
+## 💻 Experiência
   Minha jornada como QA já soma em 04 anos, onde trabalhei:
- <ul>
-   <li>
-     Na Hapvida NotreDame, onde fui o responsável pelo processo de qualidade em projetos de software focados no contexto da saúde (𝟬𝟭 𝗮𝗻𝗼 𝗲 𝟬𝟯 𝗺𝗲𝘀𝗲𝘀).
-   </li>
-   <li>
-     No Sistema FIEC, onde fui o responsável pelo porcesso de qualidade em projetos de software focados em contextos variados tais como, educação, saúde, financeiro e ecommerce (𝟬𝟮 𝗮𝗻𝗼𝘀 𝗲 𝟭𝟬 𝗺𝗲𝘀𝗲𝘀).
-   </li>
- </ul>
-</p>
+  - Na Hapvida NotreDame, onde fui o responsável pelo processo de qualidade em projetos de software focados no contexto da saúde (𝟬𝟭 𝗮𝗻𝗼 𝗲 𝟬𝟯 𝗺𝗲𝘀𝗲𝘀).
+  - No Sistema FIEC, onde fui o responsável pelo porcesso de qualidade em projetos de software focados em contextos variados tais como, saúde, e-commerce, financeiro e educação (𝟬𝟮 𝗮𝗻𝗼𝘀 𝗲 𝟭𝟬 𝗺𝗲𝘀𝗲𝘀).
 
-<h2>🎓 𝗙𝗼𝗿𝗺𝗮çã𝗼</h2>
-<p id="formacao">
-  <ul>
-    <li>
-      Graduação: Tecnologia em Telemática (𝐈𝐅𝐂𝐄).
-    </li>
-    <li>
-      Pós-graduação: Engenharia de Software com ênfase em qualidade e teste de software (𝐀𝐧𝐡𝐚𝐧𝐠𝐮𝐞𝐫𝐚).
-    </li>
-    <li>
-       Pós-graduação MBA em Gestão da Qualidade de Software (𝐀𝐧𝐡𝐚𝐧𝐠𝐮𝐞𝐫𝐚).
-    </li>
-  </ul>
-</p>
+ 
+## 🎓 𝗙𝗼𝗿𝗺𝗮çã𝗼
+  - Graduação: Tecnologia em Telemática (𝐈𝐅𝐂𝐄).
+  - Pós-graduação: Engenharia de Software com ênfase em qualidade e teste de software (𝐀𝐧𝐡𝐚𝐧𝐠𝐮𝐞𝐫𝐚).
+  - Pós-graduação: MBA em Gestão da Qualidade de Software (𝐀𝐧𝐡𝐚𝐧𝐠𝐮𝐞𝐫𝐚).
 
-<h2>📝 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮çã𝗼</h2>
-<p id="certificacao">
-  <ul>
-    <li>
-      Em preparação para a CTFL.
-    </li>
-  </ul>
-</p>
+
+## 📝 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮çã𝗼
+  - Em preparação para a CTFL.
 
 <br>
 
