@@ -8,13 +8,16 @@
 
 🌐 https://www.linkedin.com/in/davidteixeirademasin/
 
+
 ---
+
 
 ###  💼 Resumo Profissional
 
 - Graduado em Telemática, com pós em Engenharia de Software com ênfase em qualidade e teste de software, e MBA em Gestão da Qualidade de Software. Sou um profissional da qualidade e testes de software com 04 anos de experiência em diversos contextos como, saúde, e-commerce, financeiro e educação, sendo responsável pela execução de testes manuais, automatizados, exploratórios e regressivos, além da documentação dos cenários e casos de testes, e relatórios de
 testes.
 
+---
 
 ### 💻 Experiência Profissional
 
@@ -44,6 +47,8 @@ testes.
       - Utilizei Consultas SQL para auxiliar na produção de massas de teste.
     </details>
 
+---
+
 ### 🎓 Formação Acadêmica
 
 - MBA em **Gestão da Qualidade de Software**
@@ -53,6 +58,23 @@ testes.
 - Graduação em **Tecnologia em Telemática**
     - 𝐈𝐅𝐂𝐄, janeiro de 2010 a novembro de 2014
 
+---
 
+### 🛠️ Habilidades e Competências
 
+- Uso das ferramentas Jira e Trello (Hapvida) e Asana (Sistema FIEC) para o acompanhamento das atividades dos projetos e gestão de bugs.
+- Monitoramento de erros no código-fonte com a ferramenta Sonarqube.
+- Uso do DBeaver para realização de consultas SQL nos bancos de dados das aplicações.
+- Conhecimento básico em linguagens de programação Java, Javascript e Python.
+- Conhecimento nas ferramentas de testes automatizados, Cypress e Robotframework.
+- Conhecimento na ferramenta de teste de API, Postman.
+- Noções básicas de GIT e na utilização das plataformas GIT e GITLAB.
+- Noções básicas no uso da ferramenta PowerBI para elaboração de paineis e gráficos de indicadores.
+- Facilidade em realizar apresentações em público.
+
+---
+
+### 🌍 Idiomas
+
+- **Inglês**: Nível intermediário, com ênfase em leitura e interpretação de documentos.
 
