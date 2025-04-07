@@ -14,9 +14,10 @@
 
 
 ## 🌎 Encontre-me na Web
+- 📚 [Curriculum](https://http.cat/status/404)
 - 💼 [LinkedIn](https://www.linkedin.com/in/davidteixeirademasin/)
 - ✉️ [Email](mailto:davidteixeira.info@gmail.com)
-- 📚 [Curriculum](https://http.cat/status/404)
+- <img alt="Discord" height="20" width="20" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Discord.svg" /> Discord (davidtmasin)
 
 
 ## 💻 Experiência
@@ -33,6 +34,82 @@
 
 ## 📝 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮çã𝗼
   - Em preparação para a CTFL.
+
+
+## 👨‍💻Conhecimentos
+
+<details>
+  <summary>Metodologias Ágeis</summary>
+
+  - Kanban
+  - Scrum
+</details>
+
+<details>
+  <summary>Ferramentas de Comunicação Online</summary>
+
+  - Microsoft Teams
+  - Google Meet
+  - Zoom
+</details>
+
+<details>
+  <summary>Ferramentas para Testes</summary>
+
+  - Robotframework
+  - Cypress
+  - Selenium (em estudo)
+  - Cucumber (em estudo, juntamente com Selenium)
+  - Postman
+  - Maestro (em estudo)
+  - K6 (em estudo)
+</details>
+
+<details>
+  <summary>Ferramentas para Análise Estática de Código</summary>
+
+  - Sonarqube
+</details>
+
+<details>
+  <summary>Ferramentas para Gestão das Atividades de Teste</summary>
+
+  - Trello
+  - Jira
+  - Asana
+</details>
+
+<details>
+  <summary>Elaboração de Documentos da Qualidade</summary>
+
+  - Plano de Testes
+  - Cenários e Casos de Teste
+  - Relatório de Bugs
+  - Resultados dos Testes
+</details>
+
+<details>
+  <summary>Versionamento de Código</summary>
+
+  - Noções básicas em comandos GIT (git add, git commit, git push, git status, git diff, git branch)
+  - Github
+  - Gitlab
+</details>
+
+<details>
+  <summary>Linguagem de Programação</summary>
+
+  - Javascript
+  - Java
+  - Python
+</details>
+
+<details>
+  <summary>Banco de Dados</summary>
+
+  - Noções básicas nos comandos SQL para geração de massas de dados para testes
+  - Uso da ferramenta DBeaver para acesso aos bancos de dados (SQL, MySQL ou Postgress)
+</details>
 
 <br>
 
