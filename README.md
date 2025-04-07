@@ -54,10 +54,8 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/davidtmasin" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidtmasin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidtmasin&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=davidtmasin&show_icons=true&theme=radical" height="290" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidtmasin&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="290" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidtmasin&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="290" alt="languages graph"  />
 </div>
-
 
