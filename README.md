@@ -15,7 +15,7 @@
 
 ## 🌎 Encontre-me na Web
 - 📚 [Curriculum](curriculum.md)
-- 🐞 [Portfólio QA] (https://github.com/davidtmasin/portfolio-qa)
+- 🐞 [Portfólio QA](https://github.com/davidtmasin/portfolio-qa)
 - 💼 [LinkedIn](https://www.linkedin.com/in/davidteixeirademasin/)
 - ✉️ [Email](mailto:davidteixeira.info@gmail.com)
 - <img alt="Discord" height="20" width="20" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Discord.svg" /> Discord (davidtmasin)
