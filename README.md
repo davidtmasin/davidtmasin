@@ -57,8 +57,9 @@
 <details>
   <summary>Ferramentas para Testes</summary>
 
-  - Robotframework
   - Cypress
+  - Playwright
+  - Robotframework
   - Selenium (em estudo)
   - Cucumber (em estudo, juntamente com Selenium)
   - Postman
