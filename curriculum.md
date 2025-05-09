@@ -78,3 +78,6 @@ testes.
 
 - **Inglês**: Nível intermediário, com ênfase em leitura e interpretação de documentos.
 
+---
+
+Faça o download do currículo clicando [aqui](https://drive.google.com/file/d/1ESvwhrJ-0haiGHPzPGLz4Ge6HNBBqrMZ/view?usp=sharing).
